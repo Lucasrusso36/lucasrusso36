@@ -17,7 +17,6 @@
   <img align="center" alt="Lucas-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
   <img align="center" alt="Lucas-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F341269%2Fnestjs&psig=AOvVaw38-5ChprmsDkbhkV86ME2T&ust=1646859390652000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCezbyzt_YCFQAAAAAdAAAAABAD">
  
 </div>
   
