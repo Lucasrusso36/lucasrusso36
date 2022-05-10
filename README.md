@@ -1,4 +1,6 @@
-## Oi, eu sou o Lucas!
+## Oi, eu sou o Lucas! 
+- Desenvolvedor back-end júnior.
+- Atualmente, desenvolvendo primeiro projeto com foco no back-end. 
 <div align="center">
   <a href="https://github.com/Lucasrusso36">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasrusso36&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
@@ -12,10 +14,7 @@
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lucas-nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Lucas-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Lucas-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Lucas-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
- 
+  <img align="center" alt="Lucas-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"> 
 </div>
   
   ##
