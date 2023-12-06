@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Lucas! 
-- 🚀 Backend Developer passionate about crafting efficient and scalable solutions.
-- 🌐 Let's build something amazing together? Feel free to explore my repository and get in touch for discussions, collaborations, or just to share ideas. 
+- Backend Developer passionate about crafting efficient and scalable solutions.
+- Let's build something amazing together? Feel free to explore my repository and get in touch for discussions, collaborations, or just to share ideas. 
 <div align="center">
   <a href="https://github.com/Lucasrusso36">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasrusso36&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
