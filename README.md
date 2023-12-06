@@ -1,12 +1,13 @@
-## Hi, I'm Lucas! 
-- Backend developer. 
+## 👋 Hi, I'm Lucas! 
+- 🚀 Backend Developer passionate about crafting efficient and scalable solutions.
+- 🌐 Let's build something amazing together? Feel free to explore my repository and get in touch for discussions, collaborations, or just to share ideas. 
 <div align="center">
   <a href="https://github.com/Lucasrusso36">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasrusso36&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasrusso36&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
-## Tools:  
+## 🔧 In my toolkit:  
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -28,3 +29,4 @@
   <a href="https://www.linkedin.com/in/lucas-pimenta-dos-santos-34753a140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
