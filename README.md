@@ -3,11 +3,11 @@
 - In my toolkit: JavaScript, TypeScript, Node.js, Nest.js, Ruby, PostgreSQL, Git, and Ubuntu.
 - Let's build something amazing together? Feel free to explore my repository and get in touch for discussions, collaborations, or just to share ideas.
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Lucasrusso36">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasrusso36&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasrusso36&layout=compact&langs_count=7&theme=aura"/>
-</div>
+</div>-->
   
 <!-- ##  In my toolkit:  
 <div style="display: inline_block"><br>
