@@ -1,4 +1,4 @@
-## <!--👋--> Hi, I'm Lucas! -->
+## <!--👋 Hi, I'm Lucas! -->
 - Backend Developer.
 - In my toolkit: JavaScript, TypeScript, Node.js, Nest.js, Ruby, PostgreSQL, Git, and Ubuntu.
 - Let's build something amazing together? Feel free to explore my repository and get in touch for discussions, collaborations, or just to share ideas.
