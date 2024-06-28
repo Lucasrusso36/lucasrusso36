@@ -1,7 +1,7 @@
 ## <!--👋 Hi, I'm Lucas! -->
 - Backend Developer.
 - In my toolkit: Ruby, PostgreSQL, Git, API REST, JavaScript, TypeScript, Node.js, Nest.js, and Linux.
-- Let's build something amazing together? Feel free to explore my repository and get in touch for discussions, collaborations, or just to share ideas.
+<!-- - Let's build something amazing together? Feel free to explore my repository and get in touch for discussions, collaborations, or just to share ideas. -->
 
 <!-- <div align="center">
   <a href="https://github.com/Lucasrusso36">
