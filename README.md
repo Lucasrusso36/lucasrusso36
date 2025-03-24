@@ -1,6 +1,6 @@
 ## <!--👋 Hi, I'm Lucas! -->
 - Backend Developer.
-- In my toolkit: Ruby on Rails, PostgreSQL, Git, GitHub, Sidekiq, Redis, API REST, StimulusJS, JavaScript, TypeScript, Node.js, NestJS, Scrum, Postman, Insomnia, and Linux.
+- In my toolkit: Ruby on Rails, PostgreSQL, Git, GitHub, Sidekiq, Redis, API REST and RESTful, StimulusJS, JavaScript, TypeScript, Node.js, NestJS, Scrum, Postman, Insomnia, and Linux.
 <!-- - Let's build something amazing together? Feel free to explore my repository and get in touch for discussions, collaborations, or just to share ideas. -->
 
 <!-- <div align="center">
